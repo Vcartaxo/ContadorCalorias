@@ -1,0 +1,17 @@
+[
+  { "nome": "Arroz branco cozido", "kcal": 128, "proteina": 2.5, "hidratos": 28.1, "lipidos": 0.2 },
+  { "nome": "Ovo de galinha cozido", "kcal": 155, "proteina": 12.6, "hidratos": 1.1, "lipidos": 10.6 },
+  { "nome": "Frango assado (peito)", "kcal": 165, "proteina": 31.0, "hidratos": 0.0, "lipidos": 3.6 },
+  { "nome": "Maçã com casca", "kcal": 52, "proteina": 0.3, "hidratos": 13.8, "lipidos": 0.2 },
+  { "nome": "Pão de mistura", "kcal": 250, "proteina": 8.5, "hidratos": 48.0, "lipidos": 1.5 },
+  { "nome": "Leite meio gordo", "kcal": 47, "proteina": 3.3, "hidratos": 4.8, "lipidos": 1.6 },
+  { "nome": "Azeite", "kcal": 884, "proteina": 0.0, "hidratos": 0.0, "lipidos": 100.0 },
+  { "nome": "Batata cozida", "kcal": 87, "proteina": 1.9, "hidratos": 20.1, "lipidos": 0.1 },
+  { "nome": "Banana", "kcal": 89, "proteina": 1.1, "hidratos": 22.8, "lipidos": 0.3 },
+  { "nome": "Iogurte natural", "kcal": 61, "proteina": 3.5, "hidratos": 4.7, "lipidos": 3.3 },
+  { "nome": "Salmão grelhado", "kcal": 208, "proteina": 20.0, "hidratos": 0.0, "lipidos": 13.0 },
+  { "nome": "Feijão preto cozido", "kcal": 132, "proteina": 8.9, "hidratos": 23.7, "lipidos": 0.5 },
+  { "nome": "Massa cozida", "kcal": 158, "proteina": 5.8, "hidratos": 30.7, "lipidos": 0.9 },
+  { "nome": "Alface", "kcal": 15, "proteina": 1.4, "hidratos": 2.9, "lipidos": 0.2 },
+  { "nome": "Tomate", "kcal": 18, "proteina": 0.9, "hidratos": 3.9, "lipidos": 0.2 }
+]
