@@ -1,5 +1,5 @@
 {
   "name": "PortFIR + Zepp Tracker",
-  "description": "App para registar consumo de alimentos (PortFIR) e sincronizar calorias gastas (Zepp/Amazfit).",
+  "description": "App para registar consumo de alimentos (PortFIR) e sincronizar calorias gastas (Zepp/Amazfit). Instalável como PWA em Android e iOS.",
   "requestFramePermissions": ["camera"]
 }
